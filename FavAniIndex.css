@@ -1,0 +1,33 @@
+nav {
+    height: 72px;
+    background-color: grey;
+  }
+.inline-block {
+    padding: 15px;
+    text-align: center;
+    display: inline-block;
+    color: navy;
+
+  }
+
+  .block_element {
+    width: auto;
+    height: 10px;
+    
+  }
+
+.leftpanel {
+    float: left;
+    height: 500px;
+    background-color: cyan;
+    width: 30%;
+
+}
+
+.rightpanel {
+    float: left;
+    height: 500px;
+    background-color: white;
+    width: 70%;
+
+}
